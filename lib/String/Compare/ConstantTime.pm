@@ -2,7 +2,7 @@ package String::Compare::ConstantTime;
 
 use strict;
 
-our $VERSION = '0.20';
+our $VERSION = '0.300';
 
 require XSLoader;
 XSLoader::load('String::Compare::ConstantTime', $VERSION);
@@ -113,9 +113,5 @@ Doug Hoyte, C<< <doug@hcsw.org> >>
 Copyright 2012 Doug Hoyte.
 
 This module is licensed under the same terms as perl itself.
-
-The C<ministat.pl> program is included for use by the test suite. It is copyright Nik Clayton and Poul-Henning Kamp.
-
-C<ministat.pl> is licensed under the "Beer-Ware License" (see the source code).
 
 =cut

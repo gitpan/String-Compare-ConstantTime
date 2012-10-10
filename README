@@ -117,9 +117,3 @@ COPYRIGHT & LICENSE
 
     This module is licensed under the same terms as perl itself.
 
-    The "ministat.pl" program is included for use by the test suite. It is
-    copyright Nik Clayton and Poul-Henning Kamp.
-
-    "ministat.pl" is licensed under the "Beer-Ware License" (see the source
-    code).
-

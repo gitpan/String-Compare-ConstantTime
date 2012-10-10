@@ -17,6 +17,5 @@ no_index:
   directory:
     - t
     - inc
-requires:
-  Time::HiRes: 0
-version: 0.20
+requires: {}
+version: 0.300

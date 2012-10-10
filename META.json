@@ -31,11 +31,9 @@
          }
       },
       "runtime" : {
-         "requires" : {
-            "Time::HiRes" : 0
-         }
+         "requires" : {}
       }
    },
    "release_status" : "stable",
-   "version" : "0.20"
+   "version" : "0.300"
 }

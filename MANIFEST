@@ -9,7 +9,6 @@ MYMETA.json
 MYMETA.yml
 README
 t/accuracy.t
-t/lib/ministat.pl
 t/stats.t
 META.yml                                 Module YAML meta-data (added by MakeMaker)
 META.json                                Module JSON meta-data (added by MakeMaker)
