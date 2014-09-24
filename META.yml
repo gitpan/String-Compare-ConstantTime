@@ -7,8 +7,8 @@ build_requires:
 configure_requires:
   ExtUtils::MakeMaker: 0
 dynamic_config: 1
-generated_by: 'ExtUtils::MakeMaker version 6.62, CPAN::Meta::Converter version 2.112620'
-license: unknown
+generated_by: 'ExtUtils::MakeMaker version 6.94, CPAN::Meta::Converter version 2.131560'
+license: perl
 meta-spec:
   url: http://module-build.sourceforge.net/META-spec-v1.4.html
   version: 1.4
@@ -18,4 +18,7 @@ no_index:
     - t
     - inc
 requires: {}
-version: 0.300
+resources:
+  bugtracker: https://github.com/hoytech/String-Compare-ConstantTime/issues
+  repository: git://github.com/hoytech/String-Compare-ConstantTime.git
+version: 0.310
